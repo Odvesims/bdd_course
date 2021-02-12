@@ -10,7 +10,6 @@ body {
 }
 
 .navbar {
-  background: #64103f;
   padding-bottom: 20px;
 }
 
@@ -26,7 +25,6 @@ body {
 }
 
 .navbar-default {
-  border: #64103f;
 }
 
 .navbar-nav {
